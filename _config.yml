@@ -1,8 +1,6 @@
 title: Detecting Fake Yelp Reviews and Answering User Questions
 page.tagline: CS-7641 Machine Learning Course Project 
 site.tagline: CS-7641 Machine Learning Course Project 
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.abhishekpatria.com"
 theme: jekyll-theme-cayman
 logo: /assets/yelp_logo.jpeg
-mathjax: True
